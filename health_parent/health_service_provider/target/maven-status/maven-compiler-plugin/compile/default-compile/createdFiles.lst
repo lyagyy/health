@@ -1,0 +1,17 @@
+com\itheima\service\CheckItemServiceImp.class
+com\itheima\service\OrderServiceImpl.class
+com\itheima\service\UserServiceImpl.class
+com\itheima\dao\OrderSettingDao.class
+com\itheima\service\SetmealServiceImpl.class
+com\itheima\dao\CheckGroupDao.class
+com\itheima\dao\UserDao.class
+com\itheima\service\CheckGroupServiceImpl.class
+com\itheima\dao\CheckItemDao.class
+com\itheima\dao\MemberDao.class
+com\itheima\dao\RoleDao.class
+com\itheima\dao\OrderDao.class
+com\itheima\service\MemberServiceImpl.class
+com\itheima\dao\PermissionDao.class
+com\itheima\dao\SetmealDao.class
+com\itheima\service\ReportServiceImpl.class
+com\itheima\service\OrderSettingServiceImpl.class
